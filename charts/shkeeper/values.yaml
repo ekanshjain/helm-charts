@@ -15,7 +15,7 @@ storageClassName:
 #
 
 shkeeper:
-  image: vsyshost/shkeeper:2.2.4
+  image: ekanshjain/shkeeper:2.2.4
   port: 5000
 
 #
@@ -33,7 +33,7 @@ tron_fullnode:
   #tolerations: []
 
 tron_shkeeper:
-  image: vsyshost/tron-shkeeper:1.1.1
+  image: ekanshjain/tron-shkeeper:1.1.1
   host: 'tron-shkeeper'
   port: 6000
 
