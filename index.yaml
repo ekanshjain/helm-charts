@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  shkeeper:
+  - apiVersion: v2
+    appVersion: 1.19.0
+    created: "2025-01-06T13:39:29.589812053Z"
+    description: A self-hosted and open-source cryptocurrency payment processor
+    digest: 35874cf8c855505d323e860b75d499461a31eeeb1a6f0c407507f68a419c42f8
+    name: shkeeper
+    type: application
+    urls:
+    - https://github.com/ekanshjain/shkeeper.io/archive/refs/tags/v2.2.5.tar.gz
+    version: 1.4.55
+generated:    "2025-01-06T13:39:29.589812053Z"
